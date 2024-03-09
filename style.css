@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+/* section1 */
+body{
+    padding-inline: 1.9rem;
+    padding-block: 5rem;
+    margin: 0 80px;
+    padding-bottom: 112PX;
+    font-size: 16px; 
+
+}
+.Team--header{
+    display: flex;
+    justify-content: space-between; 
+    margin-bottom: 100px;
+
+}
+
+ .Team--header h2{
+    font-family: "Inconsolata", monospace;
+    font-size: 30px;
+    font-weight: 200;
+   
+}
+
+.header h2{
+    font-family: "Barlow Condensed", sans-serif;
+    margin-bottom: 10px;
+    font-size: 35px;
+    font-weight: 600;
+    
+
+}
+.ourteams .header p{
+    font-family: "Inconsolata", monospace;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+
+
+.lists{
+    font-family: "Inconsolata", monospace;
+    font-size: 17px;
+    display: flex;
+    justify-content: right;
+    gap: 20px;
+    margin-bottom: 50px;
+    cursor: pointer;
+
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+
+}
+
+.row img{
+
+    margin: 0 13px; 
+    width: 415px;
+    height: 415px;
+}
+
+/* end section1 */
+
+/* start section2   */
+
+.Team--header2{
+   
+    margin-top: 240px;
+    text-align: center;
+}
+
+.Team--header2 h2{
+    font-family: "Barlow Condensed", sans-serif;
+    font-size: 38px;
+    margin-bottom: 15px;
+}
+
+.Team--header2 span{
+    font-family: "Inconsolata", monospace;
+    font-weight: 500;
+}
+
+.image-2{
+    display: flex;
+    margin: 50px 0 200px 0;
+
+}
+.image-2 img{
+    margin: 0 10px; 
+    width: 200px;
+    height: 90px;
+   }
+
+
+   /* my services*/
+   .Team--header3{
+    margin-top: 240px;
+    text-align: center;
+    margin-bottom: 30px;
+
+
+   }
+   .Team--header3 h2{
+    font-family: "Barlow Condensed", sans-serif;
+    font-size: 35px;
+    margin-bottom: 13px;
+
+   }
+   .Team--header3 span {
+    font-family: "Inconsolata", monospace;
+    font-weight: 500;
+    font-size: 16px;
+    
+   }
+   /* end services */
+/* minu */
+
+
+   
+
+.container3{
+    display: flex;
+    flex-direction:row;
+    gap: 50px;
+}
+   .minu-web h4{
+    font-family: "Barlow Condensed", sans-serif;
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #0d1e2d;
+
+   }
+   .minu-web span{
+    font-family: "Inconsolata", monospace;
+    font-weight: 500;
+    font-size: 15px;
+    margin-bottom: 50px;
+   
+   }
+  .minu-web img{
+    width: 50px;
+
+
+  }
+   ul li {
+    font-family: "Inconsolata", monospace;
+    margin-top: 20px;
+    list-style-type: "-";
+    font-weight: 500;
+
+  }
+
+
+/*end minu */
